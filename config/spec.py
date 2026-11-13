@@ -30,7 +30,7 @@ ticker = dict(title="نبض · شريط نبض المتجر", icon="sicon-pulse"
     SW("f_offers", "عدد المنتجات المخفّضة الآن", True), SW("f_biggest", "أعلى خصم حالي", True), SW("f_low", "منتجات أوشكت على النفاد", True), NUM("low", "حد «أوشك على النفاد»", 5, 1, 30),
     SW("f_new", "أحدث منتج وصل", True), SW("f_top", "الأعلى تقييماً", True), SW("f_from", "أقل سعر في المتجر", True), TA("custom", "جمل إضافية منك (مفصولة بفواصل)", "", mx=400),
     SW("links", "كل جملة تفتح منتجها", True), NUM("speed", "مدة الدورة (ثانية)", 40, 10, 120), COLOR("bar_bg", "لون الشريط", "#111111"), COLOR("bar_text", "لون النص", "#ffffff")] + DESIGN())
-build("tw-nabd", {"ar": "نَبض — إشارات المتجر الحيّة الحقيقية", "en": "Nabd — Real Live Store Signals"},
+build("tw-nabd", repo="tw-nabd-real-live-store-signals", {"ar": "نَبض — إشارات المتجر الحيّة الحقيقية", "en": "Nabd — Real Live Store Signals"},
       {"ar": "6 عناصر تُظهر حيوية متجرك من بياناته الحقيقية فقط: عدّاد المخزون الفعلي، منصة الأكثر مبيعاً بعدد المبيعات من سلة، الخصومات الحية بعدّاد انتهاء حقيقي، أهداف السلة الحية، رادار «رجع للمخزون» مع «نبّهني»، وشريط نبض المتجر. لا أرقام وهمية ولا إشعارات مختلقة أبداً.",
        "en": "6 components that show your store's real pulse: true stock meters, a best-seller podium with Salla's real sold counts, live deals with real end-date countdowns, live cart reward goals, a back-in-stock radar with notify-me, and a store pulse ticker. Never fake numbers or invented notifications."},
       [stock, best, deals, goals, restock, ticker])

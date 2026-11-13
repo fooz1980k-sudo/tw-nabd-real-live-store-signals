@@ -10,9 +10,9 @@
   "author": {
     "name": "Khaled Alshamrani",
     "email": "fooz1980k@gmail.com",
-    "url": "https://github.com/fooz1980k-sudo/tw-nabd"
+    "url": "https://github.com/fooz1980k-sudo/tw-nabd-real-live-store-signals"
   },
-  "repository": "https://github.com/fooz1980k-sudo/tw-nabd",
+  "repository": "https://github.com/fooz1980k-sudo/tw-nabd-real-live-store-signals",
   "components": [
     {
       "title": "نبض · عدّاد المخزون الحقيقي",
@@ -960,7 +960,7 @@
         }
       ],
       "key": "51ad2f90-4f66-54e0-93fd-e8ee95103dfb",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd/main/previews/nabd-stock.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd-real-live-store-signals/main/previews/nabd-stock.jpg"
     },
     {
       "title": "نبض · منصة الأكثر مبيعاً",
@@ -1653,7 +1653,7 @@
         }
       ],
       "key": "8f75f03f-6452-5089-a45d-e6c6f730e99b",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd/main/previews/nabd-bestsellers.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd-real-live-store-signals/main/previews/nabd-bestsellers.jpg"
     },
     {
       "title": "نبض · الخصومات الحيّة",
@@ -2438,7 +2438,7 @@
         }
       ],
       "key": "e4f705c6-e3d4-5e04-a2a2-9941ce138b2b",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd/main/previews/nabd-deals.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd-real-live-store-signals/main/previews/nabd-deals.jpg"
     },
     {
       "title": "نبض · أهداف السلة",
@@ -3243,7 +3243,7 @@
         }
       ],
       "key": "73cbb2c9-732f-5fd3-ae29-7495243be564",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd/main/previews/nabd-cart-goals.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd-real-live-store-signals/main/previews/nabd-cart-goals.jpg"
     },
     {
       "title": "نبض · رادار التوفر",
@@ -3998,7 +3998,7 @@
         }
       ],
       "key": "9ca948f5-9e78-5d21-a431-1c22350c8ab8",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd/main/previews/nabd-restock.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd-real-live-store-signals/main/previews/nabd-restock.jpg"
     },
     {
       "title": "نبض · شريط نبض المتجر",
@@ -4677,7 +4677,7 @@
         }
       ],
       "key": "26e3192e-e501-50a2-b70c-015064d74f2a",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd/main/previews/nabd-ticker.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-nabd-real-live-store-signals/main/previews/nabd-ticker.jpg"
     }
   ],
   "author_email": "fooz1980k@gmail.com",
